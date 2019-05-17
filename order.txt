@@ -1,0 +1,30 @@
+O,Boyd Gaming Corporation,T9,10/12/2019,46
+R,PartnerRe Ltd.,A3,8/25/2019,30,30,12/4/2019
+O,Darden Restaurants, Inc.,V3,10/7/2019,115
+O,Bank of America Corporation,G3,7/6/2019,14
+R,BlackRock Utility, Infrastructure & Power Opportun,N3,10/16/2019,78,5,2/17/2019
+R,China Eastern Airlines Corporation Ltd.,E6,8/6/2019,71,16,5/11/2019
+O,Mid-America Apartment Communities, Inc.,I8,7/15/2019,75
+R,New Media Investment Group Inc.,E3,9/18/2019,120,21,5/15/2019
+R,The GDL Fund,H0,2/25/2019,141,11,6/16/2019
+R,International Seaways, Inc.,L7,9/30/2019,138,29,1/26/2019
+O,Algonquin Power & Utilities Corp.,T5,6/19/2019,41
+R,Stifel Financial Corporation,W9,6/21/2019,19,22,9/4/2019
+R,Piedmont Office Realty Trust, Inc.,L9,12/3/2019,0,20,6/1/2019
+O,Amphenol Corporation,P1,5/28/2019,70
+O,Telefonica Brasil S.A.,Y1,1/14/2019,85
+R,Public Storage,C7,4/9/2019,64,17,2/28/2019
+O,Royal Caribbean Cruises Ltd.,I9,2/27/2019,29
+R,Waters Corporation,T0,9/12/2019,41,21,8/23/2019
+O,Ellie Mae, Inc.,S7,10/20/2019,94
+O,RPM International Inc.,G9,3/13/2019,125
+R,Source Capital, Inc.,X7,12/16/2019,100,22,1/6/2019
+R,Legg Mason, Inc.,K6,7/24/2019,84,10,4/23/2019
+R,Lexington Realty Trust,W8,7/25/2019,98,14,4/2/2019
+R,Magnolia Oil & Gas Corporation,B4,3/20/2019,59,3,9/5/2019
+O,Kronos Worldwide Inc,C8,6/6/2019,11
+R,Cousins Properties Incorporated,D0,8/26/2019,104,16,9/25/2019
+O,Seaspan Corporation,F4,11/20/2019,76
+R,Washington Prime Group Inc.,K0,9/15/2019,6,27,11/9/2019
+O,China Rapid Finance Limited,X5,8/16/2019,85
+O,Prospect Capital Corporation,L6,4/20/2019,128
